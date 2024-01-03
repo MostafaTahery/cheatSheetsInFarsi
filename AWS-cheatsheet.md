@@ -1,7 +1,6 @@
-# AWS: A simple personal cheatsheet
+# AWS: یک برگه تقلب ساده برای سرویس های آمازون
 
-_**Note:**_ This document is not completed.  
-This is my personal **AWS** cheatsheet.
+توجه: این سند کامل نیست و برای استفاده شخصی نویسنده ایجاد شده است
 
 ## Basics:
 
