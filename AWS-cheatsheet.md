@@ -2,14 +2,12 @@
 
 توجه: این سند کامل نیست و برای استفاده شخصی نویسنده ایجاد شده است
 
-## Basics:
+## مفاهیم بنیادی:
 
-The **AWS** is nothing but an infrastructure service provided by Amazon. It’s a 
-revolutionary change because it allows you to develop an application without 
-worrying about hardware, network, database and other physical infrastructure 
-you need to run your application.
+سرویس **AWS** صرفا یک زیرساخت ابری تولید نرم افزار است که توسط شرکت آمازون به توسعه دهندگان عرضه شده. این زیرساخت شامل مجموعه عظیمی از خدمات ابری است که تمامی امکانات لازم برای ایجاد یک نرم افزار مبتنی بر شبکه جهانی یا اینترنت را فراهم می کند. زیرساخت شبکه، پایگاه داده ها و امکانات تقسیم بار و هر چیز دیگری که برای توسعه یک برنامه تحت وب لازم باشد توسط زیرساختهای مختلف **AWS** قابل تهیه است.
 
-## More info:
+
+## اطلاعات بیشتر:
 
 [Top 5 Amazon Web Services or AWS Courses to Learn Online — FREE and Best of Lot](https://hackernoon.com/top-5-amazon-web-services-or-aws-courses-to-learn-online-free-and-best-of-lot-d94e192054b7)
 
